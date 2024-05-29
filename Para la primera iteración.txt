@@ -1,1 +1,2 @@
 "Gestión del catálogo de libros" en 20 dias
+Se creó y cerró el issue
